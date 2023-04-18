@@ -1,0 +1,19 @@
+.container {
+  width: 50vh;
+  margin: 20px auto;
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.image {
+  background-color: #ddd;
+}
+.photo {
+  margin: auto 10px;
+  width: 13rem;
+}
+.content {
+  width: 13rem;
+}
